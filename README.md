@@ -4,6 +4,8 @@
 
 I build database-backed applications with C#, ASP.NET Core, and SQL Server. I’m interested in how data models and application architecture support real business workflows.
 
+> I moved to this account after losing access to my [previous GitHub account](https://github.com/cansevermurathan). I’m continuing my developer portfolio here.
+
 ## Featured projects
 
 **[Vehicle Service API](https://github.com/cansevermurathann/vehicle-service-api)**  
