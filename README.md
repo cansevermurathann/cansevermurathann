@@ -1,16 +1,20 @@
-## Hi there 👋
+# Murathan Cansever
 
-<!--
-**cansevermurathann/cansevermurathann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior .NET Backend Developer · Computer Engineering Graduate**
 
-Here are some ideas to get you started:
+I build database-backed applications with C#, ASP.NET Core, and SQL Server. I’m interested in how data models and application architecture support real business workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected project
+
+**Auto Service & Sales Management System**  
+Built an ASP.NET Core MVC application for vehicle sales, service intake, maintenance tracking, and invoicing. I organized the application into web, service, and data layers and used Entity Framework Core with SQL Server for persistence.
+
+## Technologies
+
+| Area | Tools |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core MVC, Entity Framework Core |
+| Databases | SQL Server, SQLite |
+| Other projects | C++ with Qt, Python |
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/murathan-cansever-946a021b0)
